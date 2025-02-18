@@ -49,7 +49,3 @@ A API estará disponível em `http://localhost:5228/swagger/index.html`.
 
 ## Contribuição
 Sinta-se à vontade para abrir issues e pull requests para melhorias.
-
-## Licença
-Este projeto está sob a licença MIT.
-
