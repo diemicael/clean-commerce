@@ -1,0 +1,11 @@
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\bin\Debug\net8.0\CleanCommerce.Domain.deps.json
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\bin\Debug\net8.0\CleanCommerce.Domain.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\bin\Debug\net8.0\CleanCommerce.Domain.pdb
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\obj\Debug\net8.0\CleanCommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\obj\Debug\net8.0\CleanCommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\obj\Debug\net8.0\CleanCommerce.Domain.AssemblyInfo.cs
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\obj\Debug\net8.0\CleanCommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\obj\Debug\net8.0\CleanCommerce.Domain.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\obj\Debug\net8.0\refint\CleanCommerce.Domain.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\obj\Debug\net8.0\CleanCommerce.Domain.pdb
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Domain\obj\Debug\net8.0\ref\CleanCommerce.Domain.dll

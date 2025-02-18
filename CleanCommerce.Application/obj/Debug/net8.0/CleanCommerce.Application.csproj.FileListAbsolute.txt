@@ -1,0 +1,15 @@
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\bin\Debug\net8.0\CleanCommerce.Application.deps.json
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\bin\Debug\net8.0\CleanCommerce.Application.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\bin\Debug\net8.0\CleanCommerce.Application.pdb
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\bin\Debug\net8.0\CleanCommerce.Domain.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\bin\Debug\net8.0\CleanCommerce.Domain.pdb
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\CleanCommerce.Application.csproj.AssemblyReference.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\CleanCommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\CleanCommerce.Application.AssemblyInfoInputs.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\CleanCommerce.Application.AssemblyInfo.cs
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\CleanCommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\CleanCom.206FD001.Up2Date
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\CleanCommerce.Application.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\refint\CleanCommerce.Application.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\CleanCommerce.Application.pdb
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Application\obj\Debug\net8.0\ref\CleanCommerce.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\bin\Debug\net8.0\CleanCommerce.Infrastructure.deps.json
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\bin\Debug\net8.0\CleanCommerce.Infrastructure.runtimeconfig.json
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\bin\Debug\net8.0\CleanCommerce.Infrastructure.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\bin\Debug\net8.0\CleanCommerce.Infrastructure.pdb
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\bin\Debug\net8.0\CleanCommerce.Domain.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\bin\Debug\net8.0\CleanCommerce.Domain.pdb
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCom.2C09F653.Up2Date
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCommerce.Infrastructure.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\refint\CleanCommerce.Infrastructure.dll
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCommerce.Infrastructure.pdb
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\CleanCommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\dieis\RiderProjects\CleanCommerce\CleanCommerce.Infrastructure\obj\Debug\net8.0\ref\CleanCommerce.Infrastructure.dll
